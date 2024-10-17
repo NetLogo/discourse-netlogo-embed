@@ -1,0 +1,4 @@
+plugins:
+  netlogo_embed_enabled:
+    default: true
+    client: true
