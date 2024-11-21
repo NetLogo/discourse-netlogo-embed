@@ -1,3 +1,5 @@
+// Copyright (C) 2024 Kritphong Mongkhonvanit
+//
 // This file is part of discourse-netlogo-embed.
 //
 // discourse-netlogo-embed is free software: you can redistribute it and/or
